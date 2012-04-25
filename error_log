@@ -1,0 +1,582 @@
+[28-Jul-2011 16:48:32] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 16:48:32] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 16:48:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'head.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 16:48:32] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 16:48:32] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 16:48:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'foot.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 16:48:54] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 16:48:54] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 16:48:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'head.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 3
+[29-Jul-2011 02:18:54] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[29-Jul-2011 02:18:54] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[29-Jul-2011 02:18:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'foot.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 17:10:51] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 17:10:51] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 17:10:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'head.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 17:10:51] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 17:10:51] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 17:10:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'foot.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 57
+[28-Jul-2011 17:11:24] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 17:11:24] PHP Warning:  include(head.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 3
+[28-Jul-2011 17:11:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'head.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 3
+[29-Jul-2011 02:41:24] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[29-Jul-2011 02:41:24] PHP Warning:  include(foot.py) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/contactme.php on line 57
+[29-Jul-2011 02:41:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'foot.py' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/contactme.php on line 57
+[13-Aug-2011 17:57:11] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:57:11] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:57:11] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:57:11] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:57:11] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:57:11] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:57:11] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:57:11] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:57:11] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:57:11] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:57:11] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:57:11] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:57:11] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:57:11] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:57:11] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[13-Aug-2011 17:57:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[13-Aug-2011 17:58:27] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:58:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:58:27] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:58:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:58:27] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:58:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:58:27] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:58:27] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:58:27] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:58:27] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:58:27] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:58:27] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:58:27] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:58:27] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:58:27] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[13-Aug-2011 17:58:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[13-Aug-2011 17:59:27] PHP Warning:  include(/includes/scripts/site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/signup.php on line 2
+[13-Aug-2011 17:59:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/signup.php on line 2
+[13-Aug-2011 17:59:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/signup.php:2) in /home/dlzip/public_html/signup.php on line 3
+[13-Aug-2011 17:59:27] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:59:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 17:59:27] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:59:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 17:59:27] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:59:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:59:27] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:59:27] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:59:27] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 17:59:27] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[13-Aug-2011 18:00:03] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 18:00:03] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[13-Aug-2011 18:00:03] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 18:00:03] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[13-Aug-2011 18:00:03] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 18:00:03] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 18:00:03] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 18:00:03] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 18:00:03] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 18:00:03] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 18:00:03] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 18:00:03] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 18:00:03] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 18:00:03] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 18:00:03] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[13-Aug-2011 18:00:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[14-Aug-2011 05:26:48] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 05:26:48] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 05:26:48] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 05:26:48] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 05:26:48] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 05:26:48] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 05:26:48] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 05:26:48] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 05:26:48] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 05:26:48] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 05:26:48] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 05:26:48] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 05:26:48] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 05:26:48] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 05:26:48] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[14-Aug-2011 05:26:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[14-Aug-2011 06:00:45] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:00:45] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:00:45] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:00:45] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:00:45] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:00:45] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:00:45] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:00:45] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:00:45] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:00:45] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:00:45] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:00:45] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:00:45] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:00:45] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:00:45] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[14-Aug-2011 06:00:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[14-Aug-2011 06:02:37] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:02:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:02:37] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:02:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:02:37] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:02:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:02:37] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:02:37] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:02:37] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:02:37] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:02:37] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:02:37] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:02:37] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:02:37] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:02:37] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[14-Aug-2011 06:02:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[14-Aug-2011 06:04:14] PHP Warning:  include_once() [<a href='function.include-once'>function.include-once</a>]: http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:14] PHP Warning:  include_once(http://dlzip.in/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: no suitable wrapper could be found in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:14] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'http://dlzip.in/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:14] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:04:14] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:04:14] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:04:14] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:14] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:14] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:14] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:04:14] PHP Notice:  r_inetbrowsers in /home/dlzip/public_html/index.php on line 21
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:04:14] PHP Notice:  r_mplayers in /home/dlzip/public_html/index.php on line 29
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:04:14] PHP Notice:  r_ptools in /home/dlzip/public_html/index.php on line 37
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:04:14] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 43
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:04:14] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 49
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:04:14] PHP Notice:  r_torrent in /home/dlzip/public_html/index.php on line 55
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 61
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 63
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 65
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 70
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 78
+[14-Aug-2011 06:04:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/index.php on line 82
+[14-Aug-2011 06:04:42] PHP Warning:  include(\includes\scripts\site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  include(\includes\scripts\site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '\includes\scripts\site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/login.php:2) in /home/dlzip/public_html/login.php on line 3
+[14-Aug-2011 06:04:42] PHP Warning:  include_once() [<a href='function.include-once'>function.include-once</a>]: http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  include_once(http://dlzip.in/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: no suitable wrapper could be found in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'http://dlzip.in/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 2
+[14-Aug-2011 06:04:42] PHP Warning:  include_once(/includes/scripts/sqlconnection.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:04:42] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/sqlconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 167
+[14-Aug-2011 06:04:42] PHP Warning:  include_once(/includes/scripts/site_maintain.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:04:42] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/head.php on line 168
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:42] PHP Notice:   in /home/dlzip/public_html/head.php on line 175
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 182
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:42] PHP Notice:   in /home/dlzip/public_html/head.php on line 193
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 203
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:42] PHP Notice:  query2error: profile.php in /home/dlzip/public_html/head.php on line 221
+[14-Aug-2011 06:04:42] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dlzip/public_html/head.php on line 222
+[14-Aug-2011 06:04:42] PHP Warning:  require_once(/includes/scripts/sqlconnection.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/login.php on line 21
+[14-Aug-2011 06:04:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/includes/scripts/sqlconnection.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/login.php on line 21
+[14-Aug-2011 06:10:16] PHP Warning:  include(\includes\scripts\site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:10:16] PHP Warning:  include(\includes\scripts\site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:10:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '\includes\scripts\site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/login.php on line 2
+[14-Aug-2011 06:10:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/login.php:2) in /home/dlzip/public_html/login.php on line 3
+[14-Aug-2011 06:16:24] PHP Warning:  include(/includes/scripts/site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/signup.php on line 2
+[14-Aug-2011 06:16:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/signup.php on line 2
+[14-Aug-2011 06:16:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/signup.php:2) in /home/dlzip/public_html/signup.php on line 3
+[15-Aug-2011 01:35:09] PHP Warning:  require_once(login_functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:35:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login_functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:36:30] PHP Warning:  require_once(login_functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:36:30] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login_functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:36:31] PHP Warning:  require_once(login_functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:36:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login_functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:42:15] PHP Warning:  require_once(login_functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:42:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login_functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:47:19] PHP Warning:  require_once(login_functions.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:47:19] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login_functions.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 22
+[15-Aug-2011 01:50:31] PHP Parse error:  syntax error, unexpected ')' in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 23
+[15-Aug-2011 01:50:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dlzip/public_html/includes/scripts/site_maintain.php:57) in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 24
+[15-Aug-2011 01:58:07] PHP Warning:  include(/includes/scripts/site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/logout.php on line 3
+[15-Aug-2011 01:58:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/logout.php on line 3
+[15-Aug-2011 01:58:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dlzip/public_html/logout.php:3) in /home/dlzip/public_html/logout.php on line 18
+[15-Aug-2011 01:58:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dlzip/public_html/logout.php:3) in /home/dlzip/public_html/logout.php on line 21
+[15-Aug-2011 02:16:24] PHP Warning:  include(/includes/scripts/site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/edit.php on line 2
+[15-Aug-2011 02:16:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/edit.php on line 2
+[15-Aug-2011 02:16:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/edit.php:2) in /home/dlzip/public_html/edit.php on line 3
+[15-Aug-2011 02:17:54] PHP Warning:  include(/includes/scripts/site_maintain.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/public_html/edit.php on line 2
+[15-Aug-2011 02:17:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/includes/scripts/site_maintain.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/public_html/edit.php on line 2
+[15-Aug-2011 02:17:54] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dlzip/public_html/edit.php:2) in /home/dlzip/public_html/edit.php on line 3
+[28-Aug-2011 04:57:49] PHP Parse error:  syntax error, unexpected '{' in /home/dlzip/public_html/search.php on line 29
+[28-Aug-2011 06:50:27] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dlzip/public_html/index.php on line 15
+[03-Sep-2011 01:38:04] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dlzip/public_html/includes/scripts/site_maintain.php on line 14
+[04-Oct-2011 07:04:32] PHP Parse error:  syntax error, unexpected '>' in /home/dlzip/public_html/head.php on line 190
+[04-Oct-2011 07:05:17] PHP Parse error:  syntax error, unexpected '>' in /home/dlzip/public_html/head.php on line 190
+[04-Oct-2011 07:19:39] PHP Parse error:  syntax error, unexpected '>' in /home/dlzip/public_html/head.php on line 190
+[04-Oct-2011 07:24:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/head.php on line 195
+[04-Oct-2011 07:25:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/head.php on line 195
+[04-Oct-2011 07:26:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/head.php on line 195
+[04-Oct-2011 07:28:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/head.php on line 198
+[04-Dec-2011 19:32:19] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/public_html/search.php on line 28
+[04-Dec-2011 19:34:05] PHP Fatal error:  Call to undefined function int() in /home/dlzip/public_html/search.php on line 28
+[22-Dec-2011 04:56:13] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/public_html/showcategory.php on line 39
+[22-Dec-2011 04:56:46] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/public_html/showcategory.php on line 39
+[22-Dec-2011 04:56:50] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/public_html/showcategory.php on line 39
+[25-Dec-2011 06:49:35] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/dlzip/public_html/index.php on line 103
+[25-Dec-2011 06:50:30] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/dlzip/public_html/index.php on line 103
+[25-Dec-2011 06:51:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/index.php on line 103
+[25-Dec-2011 06:52:02] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/public_html/index.php on line 103
+[25-Dec-2011 07:04:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/public_html/head.php on line 9
+[25-Dec-2011 07:42:20] PHP Parse error:  syntax error, unexpected '}' in /home/dlzip/public_html/head.php on line 10
+[27-Dec-2011 05:16:12] PHP Parse error:  syntax error, unexpected '{' in /home/dlzip/public_html/contactme.php on line 47
+[19-Jan-2012 20:29:12 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2012 20:29:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jan-2012 20:42:55 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2012 20:42:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jan-2012 22:42:07 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2012 22:42:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 02:29:19 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 02:29:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 02:45:04 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 02:45:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 04:32:43 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 04:32:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 05:41:35 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 05:41:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 05:50:52 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 05:50:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 09:00:14 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 09:00:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 10:11:26 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 10:11:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 10:30:11 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 10:30:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 11:30:53 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 11:30:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 11:30:54 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 11:30:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 11:30:55 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 11:30:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 11:32:20 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 11:32:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 11:32:42 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 11:32:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 13:51:12 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 13:51:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 13:51:33 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 13:51:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 17:24:37 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 17:24:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 17:25:33 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 17:25:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 17:25:47 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 17:25:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 17:25:48 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 17:25:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 17:27:11 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 17:27:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 18:00:34 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 18:00:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 18:35:49 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 18:35:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 18:39:05 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 18:39:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 19:27:25 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 19:27:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 19:27:41 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 19:27:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 19:27:52 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 19:27:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 19:28:16 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 19:28:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Jan-2012 20:32:20 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Jan-2012 20:32:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 00:38:56 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 00:38:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 00:42:58 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 00:42:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 02:07:48 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 02:07:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 04:18:18 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 04:18:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 04:52:10 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 04:52:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 04:52:58 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 04:52:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 04:58:51 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 04:58:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 06:05:41 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 06:05:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 06:39:47 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 06:39:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 06:39:54 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 06:39:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 06:43:06 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 06:43:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 08:47:01 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 08:47:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 09:43:41 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 09:43:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 12:39:24 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 12:39:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 16:21:38 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 16:21:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 19:20:14 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 19:20:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 20:17:14 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 20:17:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jan-2012 20:38:42 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Jan-2012 20:38:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 01:40:40 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 01:40:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 02:27:14 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 02:27:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 03:50:03 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 03:50:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 03:58:27 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 03:58:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 05:04:46 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 05:04:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 05:18:58 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 05:18:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 05:36:02 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 05:36:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 06:10:22 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 06:10:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 06:22:21 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 06:22:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 07:39:44 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 07:39:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 11:08:22 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 11:08:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 12:33:28 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 12:33:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 14:24:47 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 14:24:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 14:43:45 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 14:43:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 16:37:45 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 16:37:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 17:43:36 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 17:43:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 18:05:37 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 18:05:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 18:33:28 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 18:33:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 18:34:35 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 18:34:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 18:34:46 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 18:34:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 18:34:53 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 18:34:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jan-2012 20:26:04 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Jan-2012 20:26:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 00:38:15 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 00:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 01:12:08 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 01:12:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 02:48:27 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 02:48:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 05:26:28 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 05:26:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 06:52:38 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 06:52:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 08:01:24 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 08:01:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 12:17:22 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 12:17:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 12:54:13 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 12:54:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 13:57:04 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 13:57:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 16:35:53 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 16:35:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 17:45:37 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 17:45:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2012 19:09:41 UTC] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Jan-2012 19:09:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0

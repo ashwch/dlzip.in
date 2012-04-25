@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /images
+Disallow: /includes
+Allow: /scripts/browse.py
+Disallow: /style
+Disallow: /downloads
+Disallow: /edit.py
+Disallow: /profile.py
+Disallow: /edit_info.py
+Disallow: /edit_account.py
+Disallow: /head.py
+Disallow: /activate.py
+Disallow: /head.py
+Disallow: /foot.py
+Allow: /showcategory.py
+Allow: /showall.py
+Allow: /signup.py
+
